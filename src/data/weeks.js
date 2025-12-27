@@ -12,6 +12,24 @@ import ejercicio6_1 from "../imagenes/semanas/semana06/ejercicio6_1.png";
 import ejercicio6_2 from "../imagenes/semanas/semana06/ejercicio6_2.png";
 import ejercicio7_1 from "../imagenes/semanas/semana07/ejercicio7_1.png";
 import ejercicio7_2 from "../imagenes/semanas/semana07/ejercicio7_2.png";
+import ejercicio8_1 from "../imagenes/semanas/semana08/ejercicio8_1.png";
+import ejercicio8_2 from "../imagenes/semanas/semana08/ejercicio8_2.png";
+import ejercicio9_1 from "../imagenes/semanas/semana09/ejercicio9_1.png";
+import ejercicio9_2 from "../imagenes/semanas/semana09/ejercicio9_2.png";
+import ejercicio10_1 from "../imagenes/semanas/semana10/ejercicio10_1.png";
+import ejercicio10_2 from "../imagenes/semanas/semana10/ejercicio10_2.png";
+import ejercicio11_1 from "../imagenes/semanas/semana11/ejercicio11_1.png";
+import ejercicio11_2 from "../imagenes/semanas/semana11/ejercicio11_2.png";
+import ejercicio12_1 from "../imagenes/semanas/semana12/ejercicio12_1.png";
+import ejercicio12_2 from "../imagenes/semanas/semana12/ejercicio12_2.png";
+import ejercicio13_1 from "../imagenes/semanas/semana13/ejercicio13_1.png";
+import ejercicio13_2 from "../imagenes/semanas/semana13/ejercicio13_2.png";
+import ejercicio14_1 from "../imagenes/semanas/semana14/ejercicio14_1.png";
+import ejercicio14_2 from "../imagenes/semanas/semana14/ejercicio14_2.png";
+import ejercicio15_1 from "../imagenes/semanas/semana15/ejercicio15_1.png";
+import ejercicio15_2 from "../imagenes/semanas/semana15/ejercicio15_2.png";
+import ejercicio16_1 from "../imagenes/semanas/semana16/ejercicio16_1.png";
+import ejercicio16_2 from "../imagenes/semanas/semana16/ejercicio16_2.png";
 export const weeksData = {
   "1": {
     "title": "Semana 01 — Fundamentos de las Tecnologías Web",
@@ -69,11 +87,11 @@ export const weeksData = {
     "images": [
       {
         "url": ejercicio4_1,
-        "desc": "Presenta una interfaz de tarjetas que muestran las principales playas del Perú, diseñada con componentes dinámicos y un estilo limpio. Refleja el uso de JavaScript y frameworks CSS para organizar contenido visual de manera interactiva."
+        "desc": "Muestra la versión ampliada del listado con las diez mejores playas del Perú, evidenciando el uso de estructuras de datos y renderización dinámica en la web. Se destaca la aplicación de JavaScript y TypeScript para generar vistas responsivas y ordenadas."
       },
       {
         "url": ejercicio4_2,
-        "desc": "Muestra la versión ampliada del listado con las diez mejores playas del Perú, evidenciando el uso de estructuras de datos y renderización dinámica en la web. Se destaca la aplicación de JavaScript y TypeScript para generar vistas responsivas y ordenadas."
+        "desc": "Muestra una interfaz basada en tarjetas informativas que presenta datos dinámicos de distintas ciudades del Perú, como temperatura, altitud y ubicación. Se evidencia el uso de estructuras de datos, renderización iterativa y componentes reutilizables para mostrar información organizada y responsiva, aplicando JavaScript y TypeScript para la gestión y actualización dinámica de los datos."
       }
     ]
   },
@@ -127,145 +145,145 @@ export const weeksData = {
   },
   "8": {
     "title": "Semana 08 — Evaluación y Retroalimentación del Primer Módulo",
-    "summary": "...",
-    "feedback": "...",
-    "github": "https://github.com/usuario/proyecto-semana-08",
+    "summary": "Durante esta semana se realizó la revisión de la evaluación de logro correspondiente al primer módulo del curso. Se reforzaron los contenidos desarrollados en frontend, como HTML, CSS, JavaScript y el uso de frameworks, analizando errores comunes y buenas prácticas aplicadas en los laboratorios realizados.",
+    "feedback": "La retroalimentación permitió identificar oportunidades de mejora en la estructura del código y en la organización de los componentes. Esto ayudó a consolidar los conocimientos adquiridos y fortalecer las bases del desarrollo frontend.",
+    "github": "https://github.com/GianmarcoValencia/Parcial-1-Consolidado-Sem08.git",
     "images": [
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 1"
+        "url": ejercicio8_1,
+        "desc": "Presenta una plataforma administrativa para la gestión de certificaciones, donde se permite crear, editar y configurar exámenes de manera dinámica. El sistema incluye la definición de títulos, áreas temáticas, tiempo de evaluación y preguntas con múltiples alternativas. Demuestra el uso de formularios avanzados, manejo de estados, validaciones y organización de la información, evidenciando la implementación de interfaces orientadas a la administración y control de procesos académicos."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 2"
+        "url": ejercicio8_2,
+        "desc": "Muestra la visualización y generación automática de certificados digitales tras la aprobación de una evaluación. El certificado presenta información del alumno, resultados obtenidos y estado final, integrando cálculos de puntaje y validación de aprobación. Este módulo refleja la automatización de procesos, la presentación estructurada de datos y la generación de documentos digitales, destacando la correcta integración entre lógica de negocio y presentación de resultados."
       }
     ]
   },
   "9": {
     "title": "Semana 09 — Desarrollo de Aplicaciones Web Backend con PHP y JSP",
-    "summary": "...",
-    "feedback": "...",
-    "github": "https://github.com/usuario/proyecto-semana-09",
+    "summary": "En esta semana se abordaron los fundamentos del desarrollo web backend, analizando la arquitectura de aplicaciones web y el funcionamiento del lado servidor. Se trabajó con tecnologías backend como PHP y JSP, comprendiendo cómo se procesan las solicitudes y se generan respuestas dinámicas.",
+    "feedback": "Comprendí la importancia del backend en una aplicación web y cómo su correcta implementación permite la comunicación eficiente entre el cliente y el servidor, ampliando mi visión del desarrollo web integral.",
+    "github": "https://github.com/GianmarcoValencia/Instalacion-Tomcat-JDK-e-IntellijIDEA.git",
     "images": [
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 1"
+        "url": ejercicio9_1,
+        "desc": "Presenta la instalación exitosa del servidor de aplicaciones Apache Tomcat, mostrando la página de inicio por defecto que confirma su correcto funcionamiento. Este proceso incluye la configuración inicial del entorno, verificación del puerto de ejecución y acceso a las herramientas administrativas básicas. La imagen evidencia la correcta preparación del servidor para el despliegue de aplicaciones web Java, siendo un paso fundamental para el desarrollo y ejecución de proyectos basados en JSP y Servlets."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 2"
+        "url": ejercicio9_2,
+        "desc": "Muestra el entorno de desarrollo IntelliJ IDEA configurado con el JDK 25, evidenciando la creación y ejecución de un proyecto Java. La imagen refleja la correcta integración del kit de desarrollo Java con el IDE, permitiendo la compilación y ejecución de aplicaciones. Este paso es esencial para garantizar compatibilidad, rendimiento y estabilidad en el desarrollo de aplicaciones backend, facilitando la implementación de soluciones basadas en Java moderno."
       }
     ]
   },
   "10": {
     "title": "Semana 10 — Fundamentos de Programación con Python",
-    "summary": "...",
-    "feedback": "...",
-    "github": "https://github.com/usuario/proyecto-semana-10",
+    "summary": "Durante esta semana se introdujo el lenguaje Python, estudiando su sintaxis básica, tipos de datos, estructuras de control, funciones y conceptos de programación orientada a objetos como clases y manejo de excepciones.",
+    "feedback": "Fortalecí mis bases en programación backend, comprendiendo la utilidad de Python para desarrollar soluciones claras, estructuradas y fáciles de mantener.",
+    "github": "https://github.com/GianmarcoValencia/Proyectos-JSP.git",
     "images": [
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 1"
+        "url": ejercicio10_1,
+        "desc": "Presenta un proyecto básico desarrollado con JSP (JavaServer Pages) que genera contenido dinámico en el servidor. La página muestra un mensaje de bienvenida junto con la fecha y hora actual del sistema, demostrando el uso de expresiones JSP para integrar código Java directamente en la vista. Este ejercicio permite comprender el funcionamiento de JSP como tecnología del lado del servidor y su integración con Apache Tomcat para la ejecución de aplicaciones web dinámicas."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 2"
+        "url": ejercicio10_2,
+        "desc": "Muestra un sistema web desarrollado en JSP que implementa el manejo de sesiones HTTP para el control de visitas de un usuario. La aplicación presenta un saludo dinámico, la hora actual y un contador que registra el número de accesos durante una misma sesión. Este proyecto evidencia el uso práctico de objetos implícitos de JSP, como session, y refuerza conceptos fundamentales de estado y persistencia en aplicaciones web Java ejecutadas sobre Apache Tomcat."
       }
     ]
   },
   "11": {
     "title": "Semana 11 — Introducción a Django y Gestión de Vistas y Modelos",
-    "summary": "...",
-    "feedback": "...",
-    "github": "https://github.com/usuario/proyecto-semana-11",
+    "summary": "En esta semana se estudió el framework Django y su arquitectura MTV. Se aprendió a crear proyectos, gestionar URLs, desarrollar vistas, utilizar plantillas y trabajar con modelos para la interacción con bases de datos.",
+    "feedback": "Aprendí la importancia de usar frameworks para organizar mejor los proyectos web y agilizar el desarrollo de aplicaciones backend robustas.",
+    "github": "https://github.com/GianmarcoValencia/CRUD-Estudiantes.git",
     "images": [
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 1"
+        "url": ejercicio11_1,
+        "desc": "Presenta la estructura y contenido de una base de datos relacional utilizada en un sistema CRUD, donde se almacenan registros de usuarios con campos como identificador, nombre y correo electrónico. La imagen evidencia la persistencia de la información y la correcta organización de los datos, permitiendo verificar directamente las operaciones de creación, lectura, actualización y eliminación realizadas desde la aplicación. Este componente demuestra la integración efectiva entre la capa de datos y la lógica de la aplicación."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 2"
+        "url": ejercicio11_2,
+        "desc": "Muestra la interfaz gráfica de un sistema CRUD desarrollado para la administración de usuarios, donde se visualiza una lista dinámica obtenida desde la base de datos. La aplicación permite realizar operaciones de crear, leer, actualizar y eliminar registros mediante una interfaz intuitiva, incorporando formularios y botones de acción. Este proyecto refleja la conexión entre el frontend y el backend, evidenciando el flujo completo de datos y el funcionamiento práctico de un sistema de gestión web."
       }
     ]
   },
   "12": {
     "title": "Semana 12 — Formularios, Middleware y Administración en Django",
-    "summary": "...",
-    "feedback": "...",
-    "github": "https://github.com/usuario/proyecto-semana-12",
+    "summary": "Se trabajó con la gestión de formularios en Django, validación de datos y el uso de Django Admin. Además, se abordaron conceptos de middleware, sesiones, autenticación y autorización de usuarios.",
+    "feedback": "Comprendí la relevancia de la seguridad en aplicaciones web y cómo Django facilita la protección de la información y la gestión de usuarios.",
+    "github": "https://github.com/GianmarcoValencia/ApiAcademico.git",
     "images": [
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 1"
+        "url": ejercicio12_1,
+        "desc": "Presenta el uso de Postman como herramienta para el consumo y validación de una API REST de estudiantes, permitiendo ejecutar solicitudes HTTP como POST, GET, PUT y DELETE. En la imagen se observa el envío de datos en formato JSON para la creación de nuevos registros, así como la recepción de respuestas desde el servidor. Este proceso evidencia la correcta implementación de endpoints y la comunicación efectiva entre el cliente y el backend desarrollado en Java."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 2"
+        "url": ejercicio12_2,
+        "desc": "Muestra la base de datos MySQL administrada mediante XAMPP, donde se almacenan los registros gestionados por la API de estudiantes. La imagen permite visualizar la estructura de la tabla y los datos persistidos como resultado de las operaciones realizadas desde la aplicación y probadas en Postman. Este componente demuestra la integración entre el backend desarrollado en IntelliJ IDEA, la API REST y la capa de datos, consolidando el funcionamiento completo de un sistema CRUD basado en servicios web."
       }
     ]
   },
   "13": {
     "title": "Semana 13 — Diseño y Desarrollo de APIs RESTful con Django",
-    "summary": "...",
-    "feedback": "...",
-    "github": "https://github.com/usuario/proyecto-semana-13",
+    "summary": "Durante esta semana se estudiaron los principios de diseño de APIs REST, incluyendo serialización de datos, filtrado, paginación y control de acceso. También se trabajó con AJAX, CORS y protección CSRF.",
+    "feedback": "Aprendí cómo las APIs permiten la comunicación entre frontend y backend, facilitando la integración de sistemas y el desarrollo de aplicaciones escalables.",
+    "github": "https://github.com/GianmarcoValencia/ApiDocente.git",
     "images": [
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 1"
+        "url": ejercicio13_1,
+        "desc": "Presenta el uso de Postman para el consumo y prueba de una API REST de docentes, desarrollada en Java con Spring Boot desde IntelliJ IDEA. En la imagen se observa la ejecución de solicitudes HTTP (GET y POST) que permiten consultar y registrar información de docentes mediante el intercambio de datos en formato JSON. Esta práctica demuestra la correcta definición de endpoints, el manejo de respuestas del servidor y la validación de operaciones CRUD a través de herramientas de prueba de APIs."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 2"
+        "url": ejercicio13_2,
+        "desc": "Muestra la base de datos MySQL administrada con phpMyAdmin a través de XAMPP, donde se almacenan los registros de docentes gestionados por la API. La imagen evidencia la correspondencia directa entre los datos enviados desde Postman y los registros persistidos en la base de datos, confirmando la integración efectiva entre el backend desarrollado en IntelliJ IDEA, la API REST y la capa de persistencia. Este entorno consolida el funcionamiento completo de un sistema backend orientado a servicios, asegurando la correcta gestión, almacenamiento y recuperación de la información."
       }
     ]
   },
   "14": {
     "title": "Semana 14 — Microservicios y Consumo de APIs en Django",
-    "summary": "...",
-    "feedback": "...",
-    "github": "https://github.com/usuario/proyecto-semana-14",
+    "summary": "En esta semana se introdujo la arquitectura de microservicios, su diseño y la comunicación entre servicios. Se abordó la implementación de microservicios con Django y conceptos básicos de Docker y Kubernetes.",
+    "feedback": "Comprendí cómo los microservicios permiten desarrollar aplicaciones más flexibles, escalables y fáciles de mantener.",
+    "github": "https://github.com/GianmarcoValencia/PHP---Laravel.git",
     "images": [
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 1"
+        "url": ejercicio14_1,
+        "desc": "Presenta un sistema CRUD (Create, Read, Update, Delete) de estudiantes desarrollado utilizando PHP con el framework Laravel, donde se gestionan los datos directamente desde el servidor sin el uso de una API REST. El sistema se encuentra conectado a una base de datos MySQL administrada mediante XAMPP, permitiendo el almacenamiento persistente y la manipulación de la información. En la imagen se visualiza el listado de estudiantes con funcionalidades de búsqueda, filtrado y acciones para editar o eliminar registros, evidenciando el uso de controladores Laravel para manejar la lógica del negocio y la interacción directa con la base de datos."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 2"
+        "url": ejercicio14_2,
+        "desc": "Muestra los formularios de registro y edición de estudiantes, diseñados con Tailwind CSS, proporcionando una interfaz moderna, responsiva y fácil de usar. Estos formularios se encuentran directamente vinculados a la base de datos MySQL a través de Laravel y XAMPP, permitiendo la creación, actualización y visualización de registros en tiempo real. Esta implementación demuestra una correcta integración entre backend y frontend dentro de un proyecto web monolítico, aplicando buenas prácticas de desarrollo y organización del código."
       }
     ]
   },
   "15": {
     "title": "Semana 15 — Presentación de Proyecto de Investigación y RSU",
-    "summary": "...",
-    "feedback": "...",
-    "github": "https://github.com/usuario/proyecto-semana-15",
+    "summary": "Se realizó la exposición del proyecto de investigación y responsabilidad social universitaria, integrando los conocimientos adquiridos durante el curso en una solución web completa.",
+    "feedback": "Esta actividad fortaleció mis habilidades de comunicación y presentación, permitiéndome explicar de forma clara los aspectos técnicos del proyecto desarrollado.",
+    "github": "https://github.com/GianmarcoValencia/Backend-con-Python.git",
     "images": [
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 1"
+        "url": ejercicio15_1,
+        "desc": "Presenta un ejercicio desarrollado en Python que permite el registro básico de estudiantes mediante un formulario sencillo, donde se ingresan datos como nombre, edad y carrera. La aplicación procesa la información ingresada y muestra un resultado inmediato en pantalla, evidenciando el uso de estructuras de control, manejo de entradas y salidas, así como la lógica básica de programación en Python. Este ejercicio tiene como objetivo reforzar los fundamentos del lenguaje, la validación de datos y la interacción simple con el usuario."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 2"
+        "url": ejercicio15_2,
+        "desc": "Muestra un sistema CRUD de estudiantes desarrollado en Python, el cual se encuentra conectado a una base de datos para el almacenamiento y gestión persistente de la información. En la interfaz se visualiza una tabla de estudiantes con opciones para agregar, editar y eliminar registros, reflejando los cambios directamente en la base de datos. Este ejercicio demuestra la integración entre Python y un sistema gestor de bases de datos, aplicando operaciones SQL desde el backend y reforzando conceptos de persistencia de datos, manejo de registros y organización de la información."
       }
     ]
   },
   "16": {
     "title": "Semana 16 — Evaluación Final y Retroalimentación del Curso",
-    "summary": "...",
-    "feedback": "...",
-    "github": "https://github.com/usuario/proyecto-semana-16",
+    "summary": "Durante esta semana se realizó la revisión final del curso y el consolidado de notas, reforzando los aprendizajes obtenidos en desarrollo web frontend y backend a lo largo del semestre.",
+    "feedback": "El cierre del curso permitió reconocer el progreso alcanzado y consolidar las competencias desarrolladas en aplicaciones web modernas.",
+    "github": "https://github.com/GianmarcoValencia/Proyecto-Final-con-IA.git",
     "images": [
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 1"
+        "url": ejercicio16_1,
+        "desc": "Presenta el proyecto final integrador del curso, donde se aplican de manera conjunta todos los conocimientos adquiridos a lo largo del semestre. El sistema corresponde a una aplicación web inteligente orientada al ámbito de la salud, diseñada para asistir a profesionales médicos en el diagnóstico de pacientes mediante inteligencia artificial. La plataforma permite la gestión de usuarios y pacientes, así como el acceso a funcionalidades de diagnóstico automatizado basadas en el análisis de imágenes médicas."
       },
       {
-        "url": "https://drive.google.com/uc?export=view&id=AQUI_TU_ID_DE_IMAGEN",
-        "desc": "Descripción de la imagen 2"
+        "url": ejercicio16_2,
+        "desc": "Muestra el funcionamiento del módulo de diagnósticos, el cual utiliza modelos de inteligencia artificial para analizar radiografías de tórax y determinar si un paciente presenta o no indicios de COVID-19. El desarrollo se basa en un artículo científico, siguiendo su metodología para la clasificación de imágenes médicas. El sistema permite filtrar diagnósticos, visualizar imágenes procesadas y consultar resultados generados por la IA, integrando conceptos de backend, frontend, bases de datos e inteligencia artificial en una solución completa y funcional."
       }
     ]
   }

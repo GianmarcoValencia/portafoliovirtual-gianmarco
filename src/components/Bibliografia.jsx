@@ -13,7 +13,16 @@ const referencias = [
   "Mozilla Developer Network (MDN). (2024). Guía de JavaScript. Mozilla Foundation. https://developer.mozilla.org/es/docs/Web/JavaScript/Guide",
   "Código Facilito. (2023). Curso de JavaScript desde cero. https://codigofacilito.com/cursos/javascript",
   "React Docs en Español. (2024). Introducción a React. Meta Platforms, Inc. https://es.react.dev/",
-  "GeeksforGeeks en Español. (2024). Hooks en React: useState y useEffect. https://www.geeksforgeeks.org/es/hooks-en-react-usestate-y-useeffect/"
+  "GeeksforGeeks en Español. (2024). Hooks en React: useState y useEffect. https://www.geeksforgeeks.org/es/hooks-en-react-usestate-y-useeffect/",
+  "MDN Web Docs. (2024). JavaScript Guide. Mozilla Foundation. https://developer.mozilla.org/es/docs/Web/JavaScript/Guide",
+  "MDN Web Docs. (2024). React – Conceptos principales. Mozilla Foundation. https://developer.mozilla.org/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started",
+  "W3C. (2024). HTML Living Standard. World Wide Web Consortium. https://html.spec.whatwg.org/",
+  "W3C. (2024). Cascading Style Sheets (CSS) Specifications. https://www.w3.org/Style/CSS/Overview.en.html",
+  "React Documentation. (2024). Hooks API Reference. Meta Platforms, Inc.https://react.dev/reference/react",
+  "Python Software Foundation. (2024). Python Documentation. https://docs.python.org/3/",
+  "Django Software Foundation. (2024). Django Documentation. https://docs.djangoproject.com/en/stable/",
+  "GeeksforGeeks. (2024). REST API Introduction. https://www.geeksforgeeks.org/rest-api-introduction/",
+  "Red Hat. (2023). What is a Microservices Architecture?. https://www.redhat.com/en/topics/microservices/what-are-microservices"
 ];
 
 export default function Bibliografia() {
